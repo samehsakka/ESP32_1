@@ -11,7 +11,7 @@ const char * password = "123456789";
 String FirmwareVer = {
   "2.2"
 };
-#define URL_fw_Version "https://github.com/samehsakka/ESP32/blob/master/esp32_ota/bin_version_1.txt"
+#define URL_fw_Version "https://github.com/samehsakka/ESP32/blob/master/esp32_ota/bin_version.txt"
 #define URL_fw_Bin "https://github.com/samehsakka/ESP32/blob/master/esp32_ota/fw.bin"
 
 //#define URL_fw_Version "http://cade-make.000webhostapp.com/version.txt"
